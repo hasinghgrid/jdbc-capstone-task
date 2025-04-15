@@ -59,3 +59,5 @@ Measures **code coverage** to track test effectiveness.
 ![Code Coverage Screenshot](https://github.com/user-attachments/assets/c9463b91-8cbb-440a-9ebf-a21ad27fb574)
 
 ## Code Coverage After JDBC 
+<img width="1504" alt="Screenshot 2025-04-15 at 11 33 24 AM" src="https://github.com/user-attachments/assets/8b2cb96d-f595-47fc-97fd-f04cff9a4ab2" />
+
